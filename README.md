@@ -1,24 +1,50 @@
-# README
+# Hello Rails API back-end
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> A Rails API back-end app. It contains an API endpoint that selects a random greeting message.
 
-Things you may want to cover:
+## Built With
 
-* Ruby version
+- _**Ruby**_
+- _**Rails**_
+- _**PostgreSQL**_
 
-* System dependencies
+## Getting Started
 
-* Configuration
+### Clone this repository
 
-* Database creation
+```bash
+$ git clone git@github.com:Sahar-AbdelSamad/hello-rails-back-end.git
+$ cd hello-rails-back-end
+```
+### Install gems
+```bash
+$ bundle install
+```
 
-* Database initialization
+### Setup database
+```bash
+$ rails db:setup
+```
 
-* How to run the test suite
+### Start server
+```bash
+$ rails s
+```
+Open http://localhost:3000/ in your browser
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
 
-* Deployment instructions
+👤 **Sahar Abdel Samad**
 
-* ...
+- GitHub: [@sahar-abdelsamad](https://github.com/Sahar-AbdelSamad)
+- Twitter: [@abdelsamadsahar](https://twitter.com/AbdelSamadSahar)
+- LinkedIn: [sahar-abdel-samad](https://www.linkedin.com/in/sahar-abdel-samad/)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐️ if you like this project!
