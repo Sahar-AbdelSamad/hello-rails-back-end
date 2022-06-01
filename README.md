@@ -31,7 +31,6 @@ $ rails db:setup
 ```bash
 $ rails s
 ```
-Open http://localhost:3000/ in your browser
 
 ## Authors
 
