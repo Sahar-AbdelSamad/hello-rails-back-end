@@ -2,6 +2,7 @@
 
 > A Rails API back-end app. It contains an API endpoint that selects a random greeting message.
 
+## [React front-end app](https://github.com/Sahar-AbdelSamad/hello-react-front-end)
 ## Built With
 
 - _**Ruby**_
